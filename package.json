@@ -1,0 +1,17 @@
+{
+    "name": "com.oscjackexpansion",
+    "displayName": "OSC Jack Expansion",
+    "version": "1.0.0",
+    "description": "Extension for OSC Jack that adds byte[] (blob) send/receive support via uOSC.",
+    "unity": "2019.4",
+    "dependencies": {
+        "jp.keijiro.osc-jack": "1.0.3",
+        "com.hecomi.uosc": "2.0.3"
+    },
+    "keywords": [
+        "osc",
+        "blob",
+        "network"
+    ],
+    "license": "MIT"
+}
